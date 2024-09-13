@@ -1,3 +1,3 @@
-# README
+# Cryptanalysis Kit
 
-Test
+A personal project for experimenting with cryptography
